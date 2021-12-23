@@ -1,7 +1,9 @@
 baseurl = "https://pumo.io/"
-title = "PuMo Pro Developer"
+title = "PuMo Dev"
 
 theme = "hugo-coder"
+
+googleAnalytics = "G-HEJYP8ELK1"
 
 languagecode = "en"
 defaultcontentlanguage = "en"
