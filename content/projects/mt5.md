@@ -1,7 +1,7 @@
 ---
 title : "mt5.python"
 slug : "mt5"
-date : '2022-06-25'
+date : "2022-06-25"
 categories: [mt5, python]
 tags: [mt5,python]
 ---
