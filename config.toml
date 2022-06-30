@@ -26,8 +26,8 @@ priority = 0.5
 
 [params]
     author = "PuMo"
-    description = "PuMo's personal website"
-    keywords = "blog,developer,personal,machine.learning, Algorithmic.Trading"
+    description = "PuMo: Order your ML model and Explore Machine Learning | A fast, easy way to create machine learning models."
+    keywords = "Python,developer,machine.learning, ML, Algorithmic.Trading, Algorithmic, Trading"
     info = "Python Developer"
     avatarurl = "images/avatar.jpg"
     footercontent = "Made by PuMo."

@@ -3,13 +3,14 @@ title: "ZenML"
 date: "2022-06-25"
 draft: false
 categories: [ML, AI]
-tags: [ML,AI, MLOps, zenml]
+tags: [ML,AI, MLOps, zenml, pumo]
+description: "PuMo: Order your ML model and Explore Machine Learning | A fast, easy way to create machine learning models."
 ---
 
 ## How can ZenML solve your problems? 
 
 WEll, in companies which is working with ML stuff, there should be some automation or CI/CD.
-I was searching for a solution to automate the ML pipelines and found zenml.
+I was searching for a solution to automate the ML pipelines and found [zenml](https://www.zenml.io/home "zenml").
 
 So in here, going to share my experience about zenml and how to use it.
 
@@ -111,5 +112,9 @@ so how to run that localhost from google colab?! - as it said ZenML is available
 in order to go for the next step have to setup new conda enviroment for ZenML.
 
 
-1.python and zenml code in github
-2.AWS account
+1. python and zenml code in github
+2. AWS account
+3. some ex
+4. ubuntu
+5. jupyterlab
+6. anaconda
