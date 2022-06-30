@@ -1,5 +1,5 @@
-baseurl = "https://pumo.io/"
-title = "PuMo Dev"
+baseurl = "/"
+title = "PuMo ML Dev"
 
 theme = "hugo-coder"
 
@@ -20,7 +20,7 @@ pygmentscodefencesguesssyntax = true
 enableRobotsTXT = true
 
 [sitemap]
-changefreq = "weekly"
+changefreq = "daily"
 filename = "sitemap.xml"
 priority = 0.5
 
