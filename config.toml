@@ -15,7 +15,9 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+# disqusShortname = "yourdiscussshortname"
+
+enableRobotsTXT = true
 
 [sitemap]
 changefreq = "weekly"
@@ -25,10 +27,10 @@ priority = 0.5
 [params]
     author = "PuMo"
     description = "PuMo's personal website"
-    keywords = "blog,developer,personal"
+    keywords = "blog,developer,personal,machine.learning, Algorithmic.Trading"
     info = "Python Developer"
     avatarurl = "images/avatar.jpg"
-    footercontent = "Bio Page."
+    footercontent = "Made by PuMo."
 
     dateformat = "January 2, 2006"
 
