@@ -17,6 +17,11 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "yourdiscussshortname"
 
+[sitemap]
+changefreq = "weekly"
+filename = "sitemap.xml"
+priority = 0.5
+
 [params]
     author = "PuMo"
     description = "PuMo's personal website"
