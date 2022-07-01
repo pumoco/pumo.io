@@ -17,10 +17,10 @@ pygmentscodefencesguesssyntax = true
 
 # disqusShortname = "yourdiscussshortname"
 
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [sitemap]
-changefreq = "daily"
+changefreq = "hourly"
 filename = "sitemap.xml"
 priority = 0.5
 
