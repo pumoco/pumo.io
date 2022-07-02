@@ -2,7 +2,7 @@
 date = "2015-06-24T13:50:46+02:00"
 tags = []
 title = "Creating a new theme"
-sitemap_exclude: true
+sitemap_ignore: true
 +++
 
 ## Introduction

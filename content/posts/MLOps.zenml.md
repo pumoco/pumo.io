@@ -5,7 +5,7 @@ draft: false
 categories: [ML, AI]
 tags: [ML,AI, MLOps, zenml, pumo]
 description: "PuMo: Order your ML model and Explore Machine Learning | A fast, easy way to create machine learning models."
-sitemap_exclude: true
+sitemap_ignore: true
 ---
 
 ## How can ZenML solve your problems? 
