@@ -19,12 +19,12 @@ pygmentscodefencesguesssyntax = true
 
 enableRobotsTXT = false
 
-disableKinds = ["sitemap"]
+# disableKinds = ['sitemap']
 
-# [sitemap]
-# changefreq = "hourly"
-# filename = "sitemap.xml"
-# priority = 0.5
+[sitemap]
+  changefreq = 'hourly'
+  filename = 'sitemap.xml'
+  priority = 0.5
 
 [params]
     author = "PuMo"
