@@ -5,6 +5,7 @@ draft: false
 categories: [ML, Server, Python]
 tags: [ML,Server, Jupyterlab, Jupyter, pumo]
 description: "PuMo: JupyterLab on a Server or VPS | A fast, easy way to create machine learning models."
+sitemap_exclude: true
 ---
 
 ## Run a Jupyter Lab server using Windows VPS
