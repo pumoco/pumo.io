@@ -1,4 +1,4 @@
-baseurl = "https://pumo.io"
+baseurl = "/"
 title = "PuMo ML Dev"
 
 theme = "hugo-coder"
