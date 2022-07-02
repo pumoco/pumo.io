@@ -22,7 +22,7 @@ enableRobotsTXT = false
 # disableKinds = ['sitemap']
 
 [sitemap]
-  changefreq = 'hourly'
+  changefreq = 'always'
   filename = 'sitemap.xml'
   priority = 0.5
 
