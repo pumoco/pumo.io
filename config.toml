@@ -54,7 +54,7 @@ priority = 0.5
     # Custom JS
     custom_js = []
 
-[taxonomies]
+[Taxonomies]
   category = "categories"
   series = "series"
   tag = "tags"
