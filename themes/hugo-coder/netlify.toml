@@ -3,7 +3,7 @@
   command = "make prepare && hugo --source demo --baseURL $URL"
 
 [context.production.environment]
-  HUGO_VERSION = "0.54.0"
+  HUGO_VERSION = "0.101.0"
 
 [context.deploy-preview]
   command = "make prepare && hugo --source demo --buildFuture --buildDrafts --baseURL $DEPLOY_PRIME_URL"
