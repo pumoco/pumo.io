@@ -2,8 +2,8 @@
 title: "ZenML"
 date: "2022-06-25"
 draft: false
-categories: [ML, AI]
-tags: [ML,AI, MLOps, zenml, pumo]
+categories: ['ML', 'AI']
+tags: ['ML','AI', 'MLOps', 'zenml', 'pumo']
 description: "PuMo: Order your ML model and Explore Machine Learning | A fast, easy way to create machine learning models."
 sitemap_ignore: true
 ---
