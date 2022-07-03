@@ -2,11 +2,18 @@
 title: "Contact"
 date: 2021-12-16T08:08:00+03:30
 draft: false
-tags: [contact]
+tags: ['contact']
 showthedate: false
 ---
 
-Please Contact me by email: pumo.developer[@]gmail.com
+Please Contact me by email:
 
+```python
+pumopro[@]gmail.com
+```
 
-Drop a message in Whatsapp: +98 935 31 666 32 
+Drop a message in Telegram or Whatsapp:
+
+```python
++98 912 023 66 94 
+```
