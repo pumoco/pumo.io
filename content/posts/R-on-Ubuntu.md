@@ -1,7 +1,6 @@
 ---
 title: "How to Install R on Ubuntu"
 date: "2022-07-04"
-draft: false
 categories: ['ML', 'Ubuntu', 'R']
 tags: ['Ubuntu','R','pumo']
 description: "PuMo: How to Install R on Ubuntu | This tutorial teaches you to install R on Ubuntu."
@@ -36,7 +35,7 @@ You can quit using q() or pressing CTRL+c.
 
 3. Use R by using RStudio - Download [rstudio](https://www.rstudio.com/products/rstudio/download/ "rstudio")
 
-### or Jupyter Notebook
+## Jupyter Notebook
 
 1. Install R in Jupyter Notebook:
 
