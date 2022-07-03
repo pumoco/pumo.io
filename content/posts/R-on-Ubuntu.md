@@ -3,8 +3,10 @@ title: "How to Install R on Ubuntu"
 date: "2022-07-04"
 categories: ['ML', 'Ubuntu', 'R']
 tags: ['Ubuntu','R','pumo']
+series: ['R']
 description: "PuMo: How to Install R on Ubuntu | This tutorial teaches you to install R on Ubuntu."
 sitemap_ignore: true
+draft: false
 ---
 
 ## How to Install and Use R on Ubuntu
