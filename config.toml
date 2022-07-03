@@ -31,7 +31,7 @@ enableRobotsTXT = false
     description = "PuMo: Order your ML model and Explore Machine Learning | A fast, easy way to create machine learning models."
     keywords = "Python,developer,machine.learning, ML, Algorithmic.Trading, Algorithmic, Trading"
     info = "Python Developer"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/avatar.png"
     footercontent = "Made by PuMo."
 
     dateformat = "January 2, 2006"
