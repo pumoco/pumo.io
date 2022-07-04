@@ -48,7 +48,7 @@ enableRobotsTXT = false
     inverted = false
 
     # Series see also post count
-    # maxSeeAlsoItems = 5
+    maxSeeAlsoItems = 5
 
     # Custom CSS
     custom_css = []
