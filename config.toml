@@ -30,7 +30,7 @@ enableRobotsTXT = false
     author = "PuMo"
     description = "PuMo: Order your ML model and Explore Machine Learning | A fast, easy way to create machine learning models."
     keywords = "Python,developer,machine.learning, ML, Algorithmic.Trading, Algorithmic, Trading"
-    info = "Python Developer"
+    info = ["Python Developer", "Data Scientist", "Machine Learning Expert"]
     avatarurl = "images/avatar.png"
     footercontent = "Made by PuMo."
 
