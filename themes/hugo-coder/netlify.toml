@@ -13,3 +13,15 @@
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.54.0"
+
+[[redirects]]
+  from = "http://www.pumo.io/*"
+  to = "https://pumo.io/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://pumo.io/*"
+  to = "https://pumo.io/:splat"
+  status = 301
+  force = true
