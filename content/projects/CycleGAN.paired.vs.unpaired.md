@@ -1,8 +1,8 @@
 ---
 title : " CycleGAN - paired vs. unpaired"
 slug : "CycleGAN"
-date: "2023-10-11"
-lastmod: "2023-10-11"
+date: "2023-10-10"
+lastmod: "2023-10-10"
 categories: [CycleGAN,GAN,python]
 tags: [CycleGAN,GAN,python]
 ---
