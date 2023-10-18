@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "PuMo ML Dev"
+title = "PuMo Data and ML"
 
 theme = "hugo-coder"
 
