@@ -11,7 +11,7 @@ tags = ['python', 'news', 'analysis', 'Fake', 'True', 'Dataset']
 
 {{< figure src="/img/news_analysis project_0.jpeg" alt="Fake.vs.True" width="512" height="500">}}
 
-{{< notebook "jupyter/PuMoNEWS" 1200 >}}
+{{< notebook "ipynb/PuMoNEWS" 1200 >}}
 
 
 [Download Dataset: Fake.csv](https://pumo.storage.iran.liara.space/PuMoNEWS.files/Fake.csv)
