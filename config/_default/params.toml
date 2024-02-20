@@ -147,5 +147,5 @@ websiteDomain = "example.com" # domain name of your website, most cases same as 
 [matomo_analytics]
 enable = true # To enable matomo analytics change to `true`.
 websiteDomain = "https://pumo.io/" # Set the domain name of your website, in most cases same as your base URL this is required.
-matomoDomain = "https://matomo-analytics.liara.run/" # Set to Matomo domain
+matomoDomain = "matomo-analytics.liara.run" # Set to Matomo domain
 matomoSiteID = "1" # Default is set to 1, change this to the siteid being tracked
