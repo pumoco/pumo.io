@@ -1,7 +1,7 @@
 +++
 author = "PuMo"
 title = "Python news analysis: Truth or Fake"
-date = "2024-02-20"
+date = "2024-02-19"
 description = "Python news analysis in Jupyter Notebook."
 categories = ['Python', 'Jupyter']
 tags = ['python', 'news', 'analysis', 'Fake', 'True', 'Dataset']
@@ -9,7 +9,7 @@ tags = ['python', 'news', 'analysis', 'Fake', 'True', 'Dataset']
 
 ### PuMo news analysis: Fake Vs. True
 
-{{< figure src="/img/news_analysis project_0.jpeg" alt="Fake.vs.True" width="512" height="500" link="">}}
+{{< figure src="/img/news_analysis project_0.jpeg" alt="Fake.vs.True" width="512" height="500">}}
 
 {{< notebook "jupyter/PuMoNEWS" 1200 >}}
 
