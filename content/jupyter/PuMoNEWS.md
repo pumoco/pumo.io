@@ -27,8 +27,5 @@ tags = ['python', 'news', 'analysis', 'Fake', 'True', 'Dataset']
 </ul> -->
 
 
-<!-- {{%attachments style="green" title="Jupyter Notebook and Dataset == " pattern=".*\.(csv|ipynb)$"/%}} -->
-
-
 
 
