@@ -3,9 +3,9 @@
   LanguageName = "English"
   weight = 1
 
-[Pers]
-  title = "PuMo.Persian" # just for the sake of showing this is possible
-  LanguageName = "Persian"
-  weight = 2
+# [Pers]
+#   title = "PuMo.Persian" # just for the sake of showing this is possible
+#   LanguageName = "Persian"
+#   weight = 2
 
   # tip: assign the default language the lowest Weight

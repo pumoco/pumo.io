@@ -67,7 +67,7 @@ codeLineNumbers = false
 enableMathNotation = false
 
 # directory(s) where your articles are located
-mainSections = ["posts", "projects"] # see config details here https://gohugo.io/functions/where/#mainsections
+mainSections = ["posts", "jupyter", "projects"] # see config details here https://gohugo.io/functions/where/#mainsections
 
 # Label Non inline images on an article body
 figurePositionShow = false # toggle on or off globally
@@ -136,7 +136,7 @@ comments = false
 # website author
 [author]
 name = "PuMo"
-photo = "/pumoProfile.jpg" #include this if you would like to show the author photo on the sidebar
+photo = "/pumoProfile_V1.jpeg" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]
 enable = false # to enable plausible analytics set to true.

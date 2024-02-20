@@ -4,15 +4,19 @@
   weight = -110
 
 [[main]]
-  name = "Archives"
-  identifier = "Archives"
+  name = "Artefact"
+  identifier = "Artefact"
   weight = -109
 [[main]]
-  parent = "Archives"
+  parent = "Artefact"
+  name = "Jupyter.Note.Books"
+  url = "/jupyter"
+[[main]]
+  parent = "Artefact"
   name = "Posts"
   url = "/posts"
 [[main]]
-  parent = "Archives"
+  parent = "Artefact"
   name = "Projects"
   url = "/projects"
 
