@@ -3,7 +3,7 @@ author = "PuMo"
 title = "AdaBoost"
 date = "2024-02-19"
 description = "AdaBoost"
-featured = true
+# featured = true
 categories = ['Python', 'AdaBoost']
 tags = ['python', 'AdaBoost', 'analysis']
 math = true
@@ -11,7 +11,7 @@ series = ["ML"]
 usePageBundles = true
 # featureImageAlt: 'Description of image' # Alternative text for featured image.
 # featureImageCap: 'This is the featured image.' # Caption (optional).
-thumbnail = 'AdaBoost0.jpg' # Image in lists of posts.
+thumbnail = 'AdaBoost0.jpeg' # Image in lists of posts.
 +++
 
 ![AdaBoost](AdaBoost0.jpeg)
@@ -155,8 +155,22 @@ $$
 
 AdaBoost can be implemented using various machine learning libraries such as Scikit-learn in Python.
 
-```bash
-To do ... 
+```python
+# Python code example for AdaBoost implementation including Initial Model Training and Weight Adjustment
+
+from sklearn.ensemble import AdaBoostClassifier
+from sklearn.tree import DecisionTreeClassifier
+
+# Step 1: Initial Model Training
+base_classifier = DecisionTreeClassifier(max_depth=1)
+ada_boost = AdaBoostClassifier(base_estimator=base_classifier, n_estimators=50)
+ada_boost.fit(X_train, y_train)
+
+# Step 2: Weight Adjustment (Handled internally by AdaBoost)
+# Weight adjustment is handled internally by the AdaBoost algorithm.
+
+# Example usage: Predicting with the trained AdaBoost classifier
+predictions = ada_boost.predict(X_test)
 ```
 
 ![AdaBoost](AdaBoost1.jpeg)
