@@ -4,14 +4,13 @@ title = "About Me"
 date = "2019-03-11"
 description = "About Me."
 featured = true
-thumbnail = "/pumoProfile.jpg"
+thumbnail = "/pumoProfile_V2.jpeg"
 usePageBundles = false
+featureImage = "/pumoProfile_V2.jpeg"
 +++
 
 - **Name:** [PuMo]
 - **Location:** [Remote]
-
-![PuMo::round](/pumoProfile.jpg)
 
 #### About Me
 Hello and welcome. I'm PuMo, author and creator of pumo.io.

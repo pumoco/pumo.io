@@ -4,10 +4,10 @@ enableSearch = true
 # socials
 twitter = "@pumopro"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "Python Developer."
+introDescription = "Data Science Researcher."
 introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
-description = "Explore Machine Learning and NLP." # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
-keywords = ["Python.developer","machine.learning", "Algorithmic.Trading", "Algorithmic", "Trading"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
+description = "Explore Machine Learning, NLP and LLM." # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
+keywords = ["Python.developer","machine.learning", "Algorithmic.Trading", "Algorithmic", "Trading", "LLM", "Gemma"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 
 # showShare = false # Uncomment to not show share buttons on each post. Also available in each post's front matter.
 
@@ -131,12 +131,12 @@ since = 2019
 
 # Show related content at the end of an article based on the 'series' taxonomy. Can be set in post front matter.
 # showRelatedInArticle = false
-showRelatedInSidebar = true
+# showRelatedInSidebar = true
 
 # website author
 [author]
 name = "PuMo"
-photo = "/pumoProfile_V1.jpeg" #include this if you would like to show the author photo on the sidebar
+photo = "/pumoProfile_V2.jpeg" #include this if you would like to show the author photo on the sidebar
 
 [plausible_analytics]
 enable = false # to enable plausible analytics set to true.

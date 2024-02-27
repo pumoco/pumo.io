@@ -6,7 +6,7 @@
   [goldmark.extensions]
     typographer = true
   [highlight]
-    codeFences = false
+    codeFences = true
     guessSyntax = true
     hl_Lines = "--"
     lineNoStart = 1

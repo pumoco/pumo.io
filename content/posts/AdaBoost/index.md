@@ -7,7 +7,7 @@ description = "AdaBoost"
 categories = ['Python', 'AdaBoost']
 tags = ['python', 'AdaBoost', 'analysis']
 math = true
-series = ["ML"]
+series = ['ML']
 usePageBundles = true
 # featureImage = 'AdaBoost0.jpeg'
 # featureImageAlt: 'Description of image' # Alternative text for featured image.
@@ -124,8 +124,6 @@ graph LR;
 <iframe src="/D3/AdaBoost.html" width="900px" height="400px" frameborder="1"></iframe>
 
 
-Inline math: \\(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\\)
-
 
 ## AdaBoost Basics:
 $$
@@ -173,8 +171,6 @@ ada_boost.fit(X_train, y_train)
 # Example usage: Predicting with the trained AdaBoost classifier
 predictions = ada_boost.predict(X_test)
 ```
-
-![AdaBoost](AdaBoost1.jpeg)
 
 
 

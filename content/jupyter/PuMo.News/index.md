@@ -5,11 +5,14 @@ date = "2024-02-19"
 description = "Python news analysis in Jupyter Notebook."
 categories = ['Python', 'Jupyter']
 tags = ['python', 'news', 'analysis', 'Fake', 'True', 'Dataset']
+series = ['ML']
+usePageBundles = true
+thumbnail = 'news_analysis.jpeg' # Image in lists of posts.
 +++
 
-### PuMo news analysis: Fake Vs. True
+![AdaBoost](news_analysis.jpeg)
 
-{{< figure src="/img/news_analysis project_0.jpeg" alt="Fake.vs.True" width="512" height="500">}}
+### PuMo news analysis: Fake Vs. True
 
 {{< notebook "ipynb/PuMoNEWS" 1200 >}}
 
