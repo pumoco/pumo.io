@@ -20,12 +20,6 @@ tags = ['python', 'news', 'analysis', 'Fake', 'True', 'Dataset']
 
 [Download Jupyter.Note.Books: PuMoNEWS.ipynb](https://pumo.storage.iran.liara.space/PuMoNEWS.files/PuMoNEWS.ipynb)
 
-<!-- <ul class="download-list">
-    <li><a href="https://example.com/file1.pdf" class="download-link">Download File 1</a></li>
-    <li><a href="https://example.com/file2.zip" class="download-link">Download File 2</a></li>
-    <li><a href="https://example.com/file3.docx" class="download-link">Download File 3</a></li>
-</ul> -->
-
 
 
 

@@ -1,0 +1,24 @@
+<!-- layouts/shortcodes/d3-chart.html -->
+{{ $data := .Inner }}
+{{ $chartID := .Get "id" | default "chart" }}
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+// Parse the data from Markdown content
+var data = { $data };
+
+// Set up SVG width and height
+var width = 400;
+var height = 200;
+
+// Create SVG element
+var svg = d3.select("#{{ $chartID }}")
+  .append("svg")
+  .attr("width", width)
+  .attr("height", height);
+
+// Create scales and axes, and draw the chart using D3.js
+// Your D3.js code goes here
+</script>
+
+<div id="{{ $chartID }}"></div>
