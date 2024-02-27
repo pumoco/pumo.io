@@ -38,7 +38,7 @@
   {{- if eq $bundle true -}}
     {{ $image = .Page.Resources.GetMatch $file }}
     {{- if and (not $image) .Page.File -}}
-      {{ $file = path.Join .Page.RelPermalink $file }}
+      {{/* $file = path.Join .Page.RelPermalink $file */}}
       {{ $image = resources.Get $file }}
     {{- end -}}
   {{- end -}}

@@ -5,6 +5,7 @@ date = "2019-03-11"
 description = "About Me."
 featured = true
 thumbnail = "/pumoProfile.jpg"
+usePageBundles = false
 +++
 
 - **Name:** [PuMo]
