@@ -1,12 +1,12 @@
 [build]
-  publish = "public"
   command = "hugo --gc"
+  publish = "public"
   #command = "hugo --gc --minify"
   #command = "yarn tinacms build && hugo --gc --minify"
 
-  [build.environment]
-    #HUGO_VERSION = "0.92.0"
-    HUGO_VERSION = "0.123.4"
+[build.environment]
+  #HUGO_VERSION = "0.92.0"
+  HUGO_VERSION = "0.123.4"
     
 
 # [context.production.environment]
