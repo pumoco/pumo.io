@@ -1,6 +1,7 @@
 [build]
   publish = "public"
-  command = "hugo --gc --minify"
+  command = "hugo"
+  #command = "hugo --gc --minify"
   #command = "yarn tinacms build && hugo --gc --minify"
 
   [build.environment]
