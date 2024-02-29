@@ -9,13 +9,13 @@ tags = ['python', 'AdaBoost', 'analysis']
 math = true
 series = ['ML']
 usePageBundles = true
-thumbnail = "AdaBoost.V0.jpeg" # Image in lists of posts.
+thumbnail = "mladaboost.jpeg" # Image in lists of posts.
 # featureImage = 'AdaBoost0.jpeg'
 # featureImageAlt: 'Description of image' # Alternative text for featured image.
 # featureImageCap: 'This is the featured image.' # Caption (optional).
 +++
 
-![adaboost](AdaBoost.V0.jpeg)
+![adaboost](mladaboost.jpeg)
 
 # What is Ensemble Learning?
 
