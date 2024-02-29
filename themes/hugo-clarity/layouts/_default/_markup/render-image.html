@@ -40,7 +40,7 @@
           {{- $image = . -}}
       {{- else -}}
           {{- with .Page.File -}}
-              {{/*- $file = path.Join .Page.RelPermalink $file -*/}}
+              {{- $file = path.Join .Page.RelPermalink $file -}}
               {{- $image = resources.Get $file -}}
           {{- end -}}
       {{- end -}}
