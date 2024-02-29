@@ -22,3 +22,10 @@ series = "series"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
+enableRobotsTXT = true
+
+[[redirects]]
+  from = '/**'
+  status = 404
+  to = '/404.html'
