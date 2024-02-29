@@ -119,9 +119,9 @@ graph LR;
 
 
 
-## Comparison: AdaBoost vs Random Forest
+<!-- ## Comparison: AdaBoost vs Random Forest -->
 
-<iframe src="/D3/AdaBoost.html" width="900px" height="400px" frameborder="1"></iframe>
+<!-- <iframe src="/AdaBoost.html" width="900px" height="400px" frameborder="1"></iframe> -->
 
 
 
