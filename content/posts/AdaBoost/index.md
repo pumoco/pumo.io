@@ -12,10 +12,10 @@ usePageBundles = true
 # featureImage = 'AdaBoost0.jpeg'
 # featureImageAlt: 'Description of image' # Alternative text for featured image.
 # featureImageCap: 'This is the featured image.' # Caption (optional).
-thumbnail = 'AdaBoost0.jpeg' # Image in lists of posts.
+thumbnail = 'AdaBoost.V0.jpeg' # Image in lists of posts.
 +++
 
-![AdaBoost](AdaBoost0.jpeg)
+![adaboost](AdaBoost.V0.jpeg)
 
 # What is Ensemble Learning?
 
