@@ -29,3 +29,8 @@ enableRobotsTXT = true
   from = '/**'
   status = 404
   to = '/404.html'
+
+[sitemap]
+  changefreq = 'always'
+  filename = 'sitemap.xml'
+  priority = 0.5
