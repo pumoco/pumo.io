@@ -9,10 +9,10 @@ tags = ['python', 'AdaBoost', 'analysis']
 math = true
 series = ['ML']
 usePageBundles = true
+thumbnail = "AdaBoost.V0.jpeg" # Image in lists of posts.
 # featureImage = 'AdaBoost0.jpeg'
 # featureImageAlt: 'Description of image' # Alternative text for featured image.
 # featureImageCap: 'This is the featured image.' # Caption (optional).
-thumbnail = 'AdaBoost.V0.jpeg' # Image in lists of posts.
 +++
 
 ![adaboost](AdaBoost.V0.jpeg)
