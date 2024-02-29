@@ -20,9 +20,6 @@
   <head>
     {{- partial "head" . }}
     {{- partial "hooks/head-end" . }}
-    {{ if .Param "math" }}
-    {{ partialCached "math.html" . }}
-    {{ end }}
   </head>
   <body
     data-code="{{ $codeBlockConfig.max }}"

@@ -6,10 +6,10 @@ description = "AdaBoost"
 # featured = true
 categories = ['Python', 'AdaBoost']
 tags = ['python', 'AdaBoost', 'analysis']
-math = true
 series = ['ML']
 usePageBundles = true
 thumbnail = "mladaboost.jpeg" # Image in lists of posts.
+enableMathNotation = true
 # featureImage = 'AdaBoost0.jpeg'
 # featureImageAlt: 'Description of image' # Alternative text for featured image.
 # featureImageCap: 'This is the featured image.' # Caption (optional).
@@ -126,6 +126,8 @@ graph LR;
 
 
 ## AdaBoost Basics:
+
+<p>
 $$
 \text{Input: Set of weak classifiers } f_{\phi_{\mu}}(x): \mu = 1, \ldots, M_g. 
 $$
@@ -148,6 +150,7 @@ $$
 $$
 \text{Note: The strong classifier is a plane in feature space.}
 $$
+</p>
 
 
 ## Implementation Details
