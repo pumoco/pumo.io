@@ -35,6 +35,11 @@
 #   url = "https://twitter.com/"
 
 [[main]]
+  name = "support"
+  url = "support/"
+  weight = -108
+
+[[main]]
   name = "About"
   url = "about/"
   weight = -107
